@@ -1,4 +1,4 @@
-# Image Classification with Convolutional Neural Networks (CNN) on MNIST Dataset
+# Convolutional Neural Networks (CNN) With Keras
 
 This project demonstrates the application of Convolutional Neural Networks (CNNs) for classifying handwritten digits from the MNIST dataset. The project includes the creation, training, and evaluation of both a **single-layer CNN** and a **two-layer CNN**. The goal is to predict the digits (0-9) based on images from the MNIST dataset.
 
