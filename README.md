@@ -1,11 +1,12 @@
 # Image Classification with Convolutional Neural Networks (CNN) on MNIST Dataset
+
 This project demonstrates the application of Convolutional Neural Networks (CNNs) for classifying handwritten digits from the MNIST dataset. The project includes the creation, training, and evaluation of both a **single-layer CNN** and a **two-layer CNN**. The goal is to predict the digits (0-9) based on images from the MNIST dataset.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Model Architecture](#model-architecture)
 3. [Results](#results)
-
+4. [Dependencies](#dependencies)
 
 ---
 
@@ -51,3 +52,19 @@ The project uses **Keras** with **TensorFlow** backend for building and training
 - **Test Error Rate**: 1.22%
 
 The two-layer CNN provided a slightly lower error rate compared to the single-layer model, indicating an improvement in classification performance with the added layer of convolution.
+
+---
+
+## Dependencies
+
+This project requires the following Python packages:
+
+- **TensorFlow** >= 2.0
+- **Keras** >= 2.0
+- **NumPy** >= 1.18
+- **Matplotlib** >= 3.0
+- **Seaborn** >= 0.9
+- **Scikit-learn** >= 0.22
+
+
+
