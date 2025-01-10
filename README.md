@@ -52,7 +52,9 @@ The project uses **Keras** with **TensorFlow** backend for building and training
 - **Test Error Rate**: 1.22%
 
 The two-layer CNN provided a slightly lower error rate compared to the single-layer model, indicating an improvement in classification performance with the added layer of convolution.
-![Model Accuracy & Loss Curve](https://github.com/username/repository-name/raw/branch-name/path-to-image/Screenshot.png)
+![Model Accuracy & Loss Curve](https://github.com/Amiii22/Convolutional-Neural-Networks-with-Keras/blob/master/Screenshot%202025-01-10%20163139.png) 
+
+![Model Accuracy & Loss Curve]
 
 ---
 
